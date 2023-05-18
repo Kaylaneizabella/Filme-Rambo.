@@ -7,8 +7,23 @@ h2 {
     text-align: center;
     font-size: 30px;
 }
- .filme1 {
+ .filme {
     text-align: center;
  }
 
- 
+ .cartaz-todos
+ {display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+
+ }
+
+ .filme1{
+    width: 70%;
+    height: 170px;
+ }
+
+ .link
+ {
+    color: black;
+    font-size: 20px;
+ }
